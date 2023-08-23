@@ -1,0 +1,19 @@
+.inputs{
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    background-color: rgb(197, 199, 197);
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.38);
+    font-size: 20px;
+    color:rgb(41, 41, 41);
+}
+.labels{
+    margin-top: 10px;
+    color: black;
+    font-size: 18px;
+}

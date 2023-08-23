@@ -1,0 +1,22 @@
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: #007FFF;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 12px 12px 12px rgba(0,0,0,0.38);
+    margin: 20px;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: #3c9cfc;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.38);
+}
+.btn:active{
+    background-color: #6ab3fd;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.38);
+}
